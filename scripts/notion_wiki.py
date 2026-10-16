@@ -6,13 +6,20 @@ import argparse
 import copy
 import json
 import os
+import tempfile
+from contextlib import contextmanager
 import re
 import subprocess
 import sys
 import time
 from datetime import date
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterator
+
+try:
+    import fcntl
+except ImportError:  # Windows: no advisory locks; concurrent sessions are unsupported there.
+    fcntl = None
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -113,6 +120,31 @@ def run_ntn(args: list[str], *, input_text: str | None = None, idempotent: bool 
     raise SystemExit(f"ntn {label} failed after {NTN_ATTEMPTS} attempts")
 
 
+@contextmanager
+def file_lock(name: str) -> Iterator[None]:
+    """Serialise read-modify-write of a state file across processes, such as two agent sessions in one checkout."""
+    if fcntl is None:
+        yield
+        return
+    lock = ROOT / ".cache" / f"{name}.lock"
+    lock.parent.mkdir(parents=True, exist_ok=True)
+    with lock.open("a") as handle:
+        fcntl.flock(handle, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(handle, fcntl.LOCK_UN)
+
+
+def write_atomic(path: Path, text: str) -> None:
+    """Replace path in one step, so a reader never sees a half-written file."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    handle, temp = tempfile.mkstemp(dir=path.parent, prefix=f".{path.name}.")
+    with os.fdopen(handle, "w", encoding="utf-8") as out:
+        out.write(text)
+    os.replace(temp, path)
+
+
 def load_config() -> dict[str, Any]:
     if not CONFIG.exists():
         raise SystemExit(f"missing {CONFIG.relative_to(ROOT)}")
@@ -122,7 +154,7 @@ def load_config() -> dict[str, Any]:
 
 
 def save_config(config: dict[str, Any]) -> None:
-    CONFIG.write_text(json.dumps(config, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    write_atomic(CONFIG, json.dumps(config, indent=2, ensure_ascii=False) + "\n")
 
 
 def compact_id(page_id: str) -> str:
@@ -154,14 +186,17 @@ def notion_id(value: str) -> str:
 def load_versions() -> dict[str, str]:
     if not VERSIONS.exists():
         return {}
-    return json.loads(VERSIONS.read_text(encoding="utf-8"))
+    try:
+        return json.loads(VERSIONS.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}  # A lost record only makes `update` ask for a fresh `get`.
 
 
 def record_version(page_id_value: str, edited: str) -> None:
-    versions = load_versions()
-    versions[compact_id(page_id_value)] = edited
-    VERSIONS.parent.mkdir(parents=True, exist_ok=True)
-    VERSIONS.write_text(json.dumps(versions, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    with file_lock("versions"):
+        versions = load_versions()
+        versions[compact_id(page_id_value)] = edited
+        write_atomic(VERSIONS, json.dumps(versions, indent=2, sort_keys=True) + "\n")
 
 
 def page_icon(path: str) -> str:
@@ -1002,10 +1037,18 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
+# Commands that load, change, and save notion.config.json hold its lock for the whole run.
+CONFIG_WRITERS = {"cmd_seed", "cmd_create", "cmd_describe"}
+
+
 def main() -> None:
     parser = build_parser()
     args = parser.parse_args()
-    args.func(args)
+    if args.func.__name__ in CONFIG_WRITERS:
+        with file_lock("config"):
+            args.func(args)
+    else:
+        args.func(args)
 
 
 if __name__ == "__main__":
