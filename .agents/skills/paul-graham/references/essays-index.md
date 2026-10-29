@@ -1,11 +1,16 @@
 # Paul Graham essay index
 
-Local corpus of Paul Graham's essays, mirrored from the GitHub mirror DevFloor/PG (which preserves canonical paulgraham.com URLs). Sorted newest first. Essays without a parsable date are at the end. The corpus ends in June 2025 (newest: The Shape of the Essay Field); check paulgraham.com/articles.html for newer essays.
+Local corpus of Paul Graham's essays: 226 from the GitHub mirror DevFloor/PG plus 8 fetched from paulgraham.com on 2026-10-29. Sorted newest first; essays without a parsable date are at the end. The corpus ends in September 2026 (newest: Making Startups Powerful (September 2026)); check paulgraham.com/articles.html for newer essays.
 
-Essays: 226. Grep the corpus with `grep -ril "<term>" .agents/skills/paul-graham/references/essays/`.
+Essays: 234. Grep the corpus with `grep -ril "<term>" .agents/skills/paul-graham/references/essays/`.
 
 | Date | Title | File | URL |
 |---|---|---|---|
+| September 2026 | Making Startups Powerful | `making-startups-powerful.md` | https://www.paulgraham.com/powerful.html |
+| August 2026 | How Universities Should Prepare Founders | `how-universities-should-prepare-founders.md` | https://www.paulgraham.com/prepare.html |
+| June 2026 | How to Earn a Billion Dollars | `how-to-earn-a-billion-dollars.md` | https://www.paulgraham.com/earn.html |
+| May 2026 | How to Convert Between Wealth and Income Tax | `how-to-convert-between-wealth-and-income-tax.md` | https://www.paulgraham.com/winc.html |
+| March 2026 | The Brand Age | `the-brand-age.md` | https://www.paulgraham.com/brandage.html |
 | June 2025 | The Shape of the Essay Field | `the-shape-of-the-essay-field.md` | https://www.paulgraham.com/field.html |
 | May 2025 | Good Writing | `good-writing.md` | https://www.paulgraham.com/goodwriting.html |
 | March 2025 | What to Do | `what-to-do.md` | https://www.paulgraham.com/do.html |
@@ -106,6 +111,7 @@ Essays: 226. Grep the corpus with `grep -ril "<term>" .agents/skills/paul-graham
 | July 2010 | The Acceleration of Addictiveness | `the-acceleration-of-addictiveness.md` | https://www.paulgraham.com/addiction.html |
 | July 2010 | The Top Idea in Your Mind | `the-top-idea-in-your-mind.md` | https://www.paulgraham.com/top.html |
 | April 2010 | Organic Startup Ideas | `organic-startup-ideas.md` | https://www.paulgraham.com/organic.html |
+| November 2009 | Apple's Mistake | `apples-mistake.md` | https://www.paulgraham.com/apple.html |
 | October 2009 | What Startups Are Really Like | `what-startups-are-really-like.md` | https://www.paulgraham.com/really.html |
 | September 2009 | Persuade xor Discover | `persuade-xor-discover.md` | https://www.paulgraham.com/discover.html |
 | September 2009 | Post-Medium Publishing | `post-medium-publishing.md` | https://www.paulgraham.com/publishing.html |
@@ -157,6 +163,7 @@ Essays: 226. Grep the corpus with `grep -ril "<term>" .agents/skills/paul-graham
 | October 2006 | The 18 Mistakes That Kill Startups | `the-18-mistakes-that-kill-startups.md` | https://www.paulgraham.com/startupmistakes.html |
 | July 2006 | The Island Test | `the-island-test.md` | https://www.paulgraham.com/island.html |
 | June 2006 | The Power of the Marginal | `the-power-of-the-marginal.md` | https://www.paulgraham.com/marginal.html |
+| May 2006 | How to Be Silicon Valley | `how-to-be-silicon-valley.md` | https://www.paulgraham.com/siliconvalley.html |
 | May 2006 | Why Startups Condense in America | `why-startups-condense-in-america.md` | https://www.paulgraham.com/america.html |
 | April 2006, rev August 2009 | See Randomness | `see-randomness.md` | https://www.paulgraham.com/randomness.html |
 | April 2006 | The Hardest Lessons for Startups to Learn | `the-hardest-lessons-for-startups-to-learn.md` | https://www.paulgraham.com/startuplessons.html |
@@ -204,6 +211,7 @@ Essays: 226. Grep the corpus with `grep -ril "<term>" .agents/skills/paul-graham
 | May 2001 | Five Questions about Language Design | `five-questions-about-language-design.md` | https://www.paulgraham.com/langdes.html |
 | May 2001 | The Roots of Lisp | `the-roots-of-lisp.md` | https://www.paulgraham.com/rootsoflisp.html |
 | April 2001 | Java's Cover | `java's-cover.md` | https://www.paulgraham.com/javacover.html |
+| 1993 | Programming Bottom-Up | `programming-bottom-up.md` | https://www.paulgraham.com/progbot.html |
 | n/a | A Local Revolution? | `a-local-revolution.md` | https://www.paulgraham.com/revolution.html |
 | n/a | A Version 1.0 | `a-version-1.0.md` | https://www.paulgraham.com/laundry.html |
 | n/a | Beating the Averages | `beating-the-averages.md` | https://www.paulgraham.com/avg.html |

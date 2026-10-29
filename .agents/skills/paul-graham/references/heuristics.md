@@ -1,6 +1,6 @@
 # Paul Graham heuristics for idea evaluation
 
-Twenty heuristics with a verbatim quote, the essay, and the question to ask about any idea. Quotes were read in full from the local corpus (`essays/`). Dates are the essay dates. Canonical URLs point to paulgraham.com.
+Twenty-five heuristics with a verbatim quote, the essay, and the question to ask about any idea. Quotes were read in full from the local corpus (`essays/`). Dates are the essay dates. Canonical URLs point to paulgraham.com.
 
 | # | Heuristic | Quote | Essay | Question to ask |
 |---|---|---|---|---|
@@ -24,6 +24,11 @@ Twenty heuristics with a verbatim quote, the essay, and the question to ask abou
 | 18 | Release early, listen | "get a version 1 out fast, then improve it based on users' reactions." and "if I had to pick the worst, it would be ignoring users." | The Hardest Lessons for Startups to Learn, Apr 2006, https://www.paulgraham.com/startuplessons.html | What ships in weeks? |
 | 19 | Fear the right things | "Startups are right to be paranoid, but they sometimes fear the wrong things." | The Hardest Lessons for Startups to Learn, Apr 2006 | What should you actually fear: users, cash, operations? |
 | 20 | Founder mode | "there are two different ways to run a company: founder mode and manager mode." | Founder Mode, Sep 2024, https://www.paulgraham.com/foundermode.html | Which quality decisions are you about to delegate too early? |
+| 21 | Make the company more powerful | "They all have to make things better for the customer. You can't add network effects or make the money flow through you or go full stack just because you'd like to." | Making Startups Powerful, Sep 2026, https://www.paulgraham.com/powerful.html | Which power lever (own the customer relationship, money flows through you, full stack, APIs, data) also makes the customer better off? |
+| 22 | Build for agents too | "Especially now that agents are replacing human users. Who knows what they'll want to do? So err on the side of having APIs." | Making Startups Powerful, Sep 2026 | Can other people's agents buy from you through an API? |
+| 23 | Growth rate times duration | "There are two numbers that determine how big a startup gets, and thus how rich its founders become: the growth rate and how long it continues." | How to Earn a Billion Dollars, Jun 2026, https://www.paulgraham.com/earn.html | What bounds the duration: market size or purchase frequency? |
+| 24 | Brand is what remains after commoditization | "Brand is what's left when the substantive differences between products disappear. But making the substantive differences between products disappear is what technology naturally tends to do." | The Brand Age, Mar 2026, https://www.paulgraham.com/brandage.html | When the technology commoditizes, which brand or scarcity remains? |
+| 25 | Impress users with prototypes | "The people you need to impress are users, not investors, and the way you impress them is with prototypes, not words." | How Universities Should Prepare Founders, Aug 2026, https://www.paulgraham.com/prepare.html | Which prototype have users touched? |
 
 ## Core essays for idea evaluation
 
@@ -32,6 +37,7 @@ Read these first when time is short (file names in `essays-index.md`):
 - How to Get Startup Ideas (2012), Organic Startup Ideas (2010), Schlep Blindness (2012), Frighteningly Ambitious Startup Ideas (2012).
 - Do Things That Don't Scale (2013), Before the Startup (2014), Startup = Growth (2012), Default Alive or Default Dead? (2015).
 - How to Make Wealth (2004), The Hardest Lessons for Startups to Learn (2006), Black Swan Farming (2012), Superlinear Returns (2023), How to Do Great Work (2023), Founder Mode (2024).
+- The Brand Age (Mar 2026), How to Earn a Billion Dollars (Jun 2026), How Universities Should Prepare Founders (Aug 2026), Making Startups Powerful (Sep 2026).
 
 ## How he would run the evaluation
 
@@ -44,5 +50,6 @@ Read these first when time is short (file names in `essays-index.md`):
 
 ## Known gaps
 
-- The corpus ends in June 2025. Remarks from late 2025 and 2026 (AI-era startups, AI cost) exist only in secondary reports; cite them as `[uncertain]`.
-- Jobs material is not in this corpus; the WWDC 1997 wording is unofficial.
+- The corpus ends in September 2026 (newest: Making Startups Powerful); check paulgraham.com/articles.html for newer essays.
+- Press remarks from 2025-2026 (CNBC 2025-08-18 "Not every new company needs to be about AI"; Benzinga Aug 2026 "AI could turn business upside down") are headline-only: both pages are bot-walled for this environment, so cite them as `[uncertain]` and never quote body wording.
+- Jobs's WWDC 1997 line has no official Apple transcript. Three unofficial transcripts agree on "you've got to start with the customer experience and work backwards to the technology" (GoTranscript, HackerNoon); one has "for the technology" (Feld, 2011). It is a Q&A answer about OpenDoc, not keynote text.

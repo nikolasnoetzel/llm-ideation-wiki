@@ -8,7 +8,7 @@ Judge an idea with Paul Graham's heuristics and his words, not with generic star
 **Read first.**
 
 1. The idea's `wiki/<idea-slug>/overview` in Notion (and `Grill Me` if it exists). Do not ask for what the overview already says.
-2. `.agents/skills/paul-graham/references/heuristics.md`: the twenty heuristics, each with its essay, a verbatim quote, and the question to ask.
+2. `.agents/skills/paul-graham/references/heuristics.md`: the twenty-five heuristics, each with its essay, a verbatim quote, and the question to ask.
 3. For any claim you want to quote, open the essay itself in `.agents/skills/paul-graham/references/essays/` (file names in `references/essays-index.md`). Grep the corpus for topics: `grep -ril "<term>" .agents/skills/paul-graham/references/essays/`.
 
 **Produce, in this order.**
@@ -24,7 +24,7 @@ Judge an idea with Paul Graham's heuristics and his words, not with generic star
 **Rules.**
 
 - Quote verbatim from the corpus. Never invent or paraphrase a quote as if it were one. If the corpus does not support a point, say so and mark the point `^[inferred]`.
-- The corpus ends in June 2025 (newest: The Shape of the Essay Field). For anything he said later, cite the external source and mark it `[uncertain]` unless the primary page was read.
+- The corpus ends in September 2026 (newest: Making Startups Powerful). For anything he said later, or for press remarks, cite the external source and mark it `[uncertain]` unless the primary page was read.
 - One idea per sentence, active voice, no padding. Calibrate: a kill needs evidence as much as a green light does.
 - Write the result into the idea's `Grill Me` page (section "Paul Graham's lens") via the Notion workflow in `AGENTS.md`, or return it in chat if the user only asked a question. Run the ritual after a durable write.
-- Steve Jobs is optional and secondary. If asked, apply "start with the customer experience and work backwards to the technology" and "focusing is about saying no", and mark the wording `[uncertain]` (no official transcript exists).
+- Steve Jobs is optional and secondary. If asked, apply "start with the customer experience and work backwards to the technology" and "focusing is about saying no", and cite an unofficial transcript (GoTranscript or HackerNoon); no official Apple transcript exists.
