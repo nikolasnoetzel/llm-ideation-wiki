@@ -6,11 +6,16 @@ Caps: 5 KB in total, 300 characters per line, written for a cold reader. `script
 
 ## Now
 
-- Fresh distribution copy. No Notion root is configured yet.
+- Notion root is `Fire / Ice 2026 Home` (https://www.notion.so/0c354dd4c51c4b14b9c1eb8f583d7063). Raw, Shared, Wiki and Templates are mapped in `notion.config.json` by hand; titles match the seed tree, so `seed --refresh-existing` adopts them.
+- First idea: Trail, an AI-native travel operator with a voice concierge. Overview, four deep dives and eight research pages exist. Verdict: active, exploring. https://www.notion.so/4080260c95ef810f9327ccbf68d2c1d7
+- Hub page `Alternativen zu Kälte` on the root lists every pivot alternative with status and next decision date. https://www.notion.so/4080260c95ef8125978ccd40609cae90
+- Writes on 2026-10-29 went through the Notion MCP because the cloud session could not reach `api.notion.com`. The `ntn` CLI is installed but not authenticated; `NOTION_API_TOKEN` or `ntn login` is needed before `get` and `update` work.
 
 ## Active threads
 
-- None.
+- Trail: Caspar has not seen it. The gating move is alignment (pivot or four-week exploration with kill criteria). Open question queue lives in the Grill Me page. https://www.notion.so/4080260c95ef81968d44e93be07bf210
+- Research quality: every quote in the eight research pages comes from search snippets because the research environment could not open travel or news sites. Re-verify before any number enters a pitch.
+- No `wiki/founder` page yet. Trail's Team section carries the founder frame as a user claim (venture-scale). Run `/founder-profile`.
 
 ## Long runs
 
@@ -20,6 +25,7 @@ One line per active run: its `runs/` folder, status, and next step. See `docs/ag
 
 ## Next
 
-- Run `/onboarding` to connect a Notion root page.
-- Then run `/founder-profile`, which gives every idea a founder frame to be judged against.
-- Use `/new-idea` to create the first idea.
+- Run `/founder-profile`, then re-read Trail's Team section against it.
+- Ask Caspar to read the Trail Overview and the Grill Me verdict sketch; record his position in the Team section.
+- Once network and token allow, run `scripts/notion_wiki.py seed --refresh-existing` and `pull-cache` to confirm the hand mapping, then re-verify the research numbers at their primary URLs.
+- Use `/paul-graham` on the next alternative; the essay corpus is local in `.agents/skills/paul-graham/references/`.

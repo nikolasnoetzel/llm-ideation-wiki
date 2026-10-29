@@ -59,6 +59,7 @@ Notion is the place to read and edit user-facing content. Local Markdown files a
 - `/grill-me` — interviews you to stress-test an idea.
 - `/wiki-lint` — checks for weak claims, missing evidence, stale assumptions, and unclear verdicts.
 - `/crisp-writing` — drafts outward-facing copy: outreach, emails, pitches, decks.
+- `/paul-graham` — evaluates an idea with Paul Graham's heuristics and verbatim quotes from a local corpus of his essays.
 
 Skills live in `.agents/skills/`. `CLAUDE.md` and the `.claude/skills/*` entries are compatibility symlinks for Claude-style agents.
 
