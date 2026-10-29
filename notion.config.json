@@ -168,6 +168,69 @@
       "parent": "raw/shared/",
       "emoji": "🧠",
       "summary": "House lens for idea evaluation: heuristic checklist and index of 226 essays; full texts live in the /paul-graham skill."
+    },
+    "raw/trail/2026-10-29-verification-of-graveyard-research": {
+      "id": "4080260c95ef816e9f12fa3f6a01fc7e",
+      "title": "2026-10-29 Verification Of Graveyard Research",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source check of the graveyard research: 46 claims, 36 confirmed, 4 corrected; Layla sold to Expedia Jul 2026."
+    },
+    "raw/trail/2026-10-29-verification-of-incumbents-research": {
+      "id": "4080260c95ef81469fa0f90ecb169e5d",
+      "title": "2026-10-29 Verification Of Incumbents Research",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source check of the incumbents research: 52 claims, 41 confirmed, 5 corrected; GetYourGuide ChatGPT app since Mar 2026, DMA parity removal Jul 2024."
+    },
+    "raw/trail/2026-10-29-verification-of-margins-research": {
+      "id": "4080260c95ef816cb6aaccb103a7949e",
+      "title": "2026-10-29 Verification Of Margins Research",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source check of the margins research: 42 claims, 27 confirmed, 8 corrected; Audley FY2025 and Expedia FY2025 primaries added."
+    },
+    "raw/trail/2026-10-29-verification-of-distribution-research": {
+      "id": "4080260c95ef81b7879edfc17e2ceb06",
+      "title": "2026-10-29 Verification Of Distribution And Law Research",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source check incl. the Council text of Directive (EU) 2026/1024: 48 claims, 33 confirmed, 8 corrected."
+    },
+    "raw/trail/2026-10-29-verification-of-ai-trajectory-research": {
+      "id": "4080260c95ef8154b724c3ee6f3fb3f7",
+      "title": "2026-10-29 Verification Of AI Trajectory Research",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source check of the AI research: 54 claims, 28 confirmed, 18 corrected; the Expedia 8% figure is a planning share, not booking comfort."
+    },
+    "raw/trail/2026-10-29-verification-of-b2b-events-research": {
+      "id": "4080260c95ef8127a648d61b3f734afe",
+      "title": "2026-10-29 Verification Of B2B Events Research",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source check of the B2B research: 40 claims, 23 confirmed, 5 corrected; offsite per-day price withdrawn, Navan bought BoomPop Sep 2026."
+    },
+    "raw/trail/2026-10-29-verification-of-demand-research": {
+      "id": "4080260c95ef81ad859cf8ed4b44090c",
+      "title": "2026-10-29 Verification Of Demand Research",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source check of the demand research: 53 claims, 33 confirmed, 14 corrected; permits are name-bound, FUR 2026 adds AI use on 20% of trips."
+    },
+    "raw/trail/2026-10-29-verification-of-paul-graham-lens": {
+      "id": "4080260c95ef8198ae40d6a1b0f42fcd",
+      "title": "2026-10-29 Verification Of Paul Graham Lens",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Check of the PG lens: Making Startups Powerful confirmed and added to the corpus; YC RFS Winter 2027 has no travel or voice item; press remarks headline-only."
+    },
+    "raw/trail/2026-10-29-research-verification": {
+      "id": "4080260c95ef814ab3cdfc79b8610e38",
+      "title": "2026-10-29 Research Verification",
+      "parent": "raw/trail/",
+      "emoji": "✅",
+      "summary": "Primary-source verification of the research run: 340 claims, 223 confirmed, 63 corrected; the corrections that changed the wiki and what stays unverifiable."
     }
   }
 }
