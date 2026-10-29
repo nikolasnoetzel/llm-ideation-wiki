@@ -9,7 +9,8 @@ Caps: 5 KB in total, 300 characters per line, written for a cold reader. `script
 - Notion root is `Fire / Ice 2026 Home` (https://www.notion.so/0c354dd4c51c4b14b9c1eb8f583d7063). Raw, Shared, Wiki and Templates are mapped in `notion.config.json` by hand; titles match the seed tree, so `seed --refresh-existing` adopts them.
 - First idea: Trail, an AI-native travel operator with a voice concierge. Overview, four deep dives and eight research pages exist. Verdict: active, exploring. https://www.notion.so/4080260c95ef810f9327ccbf68d2c1d7
 - Hub page `Alternativen zu Kälte` on the root lists every pivot alternative with status and next decision date. https://www.notion.so/4080260c95ef8125978ccd40609cae90
-- Writes on 2026-10-29 went through the Notion MCP because the cloud session could not reach `api.notion.com`. The `ntn` CLI is installed but not authenticated; `NOTION_API_TOKEN` or `ntn login` is needed before `get` and `update` work.
+- The Notion CLI path is live in the cloud environment: the proxy injects the real integration token for `api.notion.com`, so every shell must `export NOTION_API_TOKEN=placeholder` (any non-empty value) before `scripts/notion_wiki.py`. No token is on disk.
+- CLI markdown dialect differs from the MCP one: `get` returns `#### Details {toggle="true"}` with tab-indented children and `<mention-page url=.../>`. Edit the `get` output, then `update`; round trip verified lossless on 2026-10-29.
 
 ## Active threads
 
@@ -27,5 +28,5 @@ One line per active run: its `runs/` folder, status, and next step. See `docs/ag
 
 - Run `/founder-profile`, then re-read Trail's Team section against it.
 - Ask Caspar to read the Trail Overview and the Grill Me verdict sketch; record his position in the Team section.
-- Once network and token allow, run `scripts/notion_wiki.py seed --refresh-existing` and `pull-cache` to confirm the hand mapping, then re-verify the research numbers at their primary URLs.
+- Do not run `seed --refresh-existing`: it deletes empty spacer paragraphs on the Home page. Plain `seed` confirmed the mapping on 2026-10-29.
 - Use `/paul-graham` on the next alternative; the essay corpus is local in `.agents/skills/paul-graham/references/`.
