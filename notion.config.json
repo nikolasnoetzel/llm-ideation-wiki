@@ -105,6 +105,69 @@
       "parent": "wiki/trail/",
       "emoji": "🔥",
       "summary": "Written stress test with the Paul Graham and Steve Jobs lens, design-tree questions with recommended answers, open question queue."
+    },
+    "raw/trail/2026-10-29-graveyard-research": {
+      "id": "4080260c95ef81fa84a8cfe97cb7a056",
+      "title": "2026-10-29 Graveyard Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "Tourlane and the 2015-2026 graveyard of trip-planning and concierge startups, with failure patterns."
+    },
+    "raw/trail/2026-10-29-incumbents-and-ai-moves-research": {
+      "id": "4080260c95ef813fb525c674e3b52794",
+      "title": "2026-10-29 Incumbents And AI Moves Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "Airbnb, GetYourGuide, Booking, Expedia, Trip.com, Check24, TUI: economics, AI moves and the innovator's dilemma."
+    },
+    "raw/trail/2026-10-29-margins-research": {
+      "id": "4080260c95ef81229f4eea67f0ddcf7f",
+      "title": "2026-10-29 Margins Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "Margins along the leisure-travel chain and the margin pool for a concierge model."
+    },
+    "raw/trail/2026-10-29-distribution-and-package-travel-law-research": {
+      "id": "4080260c95ef81deba5cd8aa1b5404b2",
+      "title": "2026-10-29 Distribution And Package Travel Law Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "Channels by country, German agency structure and M&A, EU Package Travel Directive and DRSF."
+    },
+    "raw/trail/2026-10-29-ai-trajectory-research": {
+      "id": "4080260c95ef814e8840e181c9dadbde",
+      "title": "2026-10-29 AI Trajectory Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "Rime fact-check, speech-to-speech pricing, agentic booking, traveller trust, agent reliability."
+    },
+    "raw/trail/2026-10-29-b2b-events-research": {
+      "id": "4080260c95ef81f6a14ce84c639bf548",
+      "title": "2026-10-29 B2B Events Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "Corporate team-event and offsite market, players, margins, buying behaviour."
+    },
+    "raw/trail/2026-10-29-demand-and-planning-behaviour-research": {
+      "id": "4080260c95ef81edb779ce90807076fc",
+      "title": "2026-10-29 Demand And Planning Behaviour Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "50+ travel demand, planning behaviour, willingness to pay, scarcity and pooling evidence."
+    },
+    "raw/trail/2026-10-29-paul-graham-lens-research": {
+      "id": "4080260c95ef81139b8dff9b46909a8b",
+      "title": "2026-10-29 Paul Graham Lens Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "Twenty Paul Graham heuristics with quotes applied to Trail, plus a Jobs lens."
+    },
+    "raw/shared/paul-graham-essays": {
+      "id": "4080260c95ef8186b4dced64475cc9eb",
+      "title": "Paul Graham Essays",
+      "parent": "raw/shared/",
+      "emoji": "🧠",
+      "summary": "House lens for idea evaluation: heuristic checklist and index of 226 essays; full texts live in the /paul-graham skill."
     }
   }
 }
