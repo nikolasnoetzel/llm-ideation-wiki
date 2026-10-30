@@ -413,6 +413,1350 @@
       "parent": "raw/shared/paul-graham-essays/",
       "emoji": "📄",
       "summary": "February 2022, https://www.paulgraham.com/words.html"
+    },
+    "raw/shared/paul-graham-essays/is-there-such-a-thing-as-good-taste": {
+      "id": "4090260c95ef8181a7e9c9dd717dc863",
+      "title": "Is There Such a Thing as Good Taste?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2021, https://www.paulgraham.com/goodtaste.html"
+    },
+    "raw/shared/paul-graham-essays/beyond-smart": {
+      "id": "4090260c95ef817d90fad63619792800",
+      "title": "Beyond Smart",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2021, https://www.paulgraham.com/smart.html"
+    },
+    "raw/shared/paul-graham-essays/weird-languages": {
+      "id": "4090260c95ef8100bcafc56c83502a33",
+      "title": "Weird Languages",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2021, https://www.paulgraham.com/weird.html"
+    },
+    "raw/shared/paul-graham-essays/a-project-of-one's-own": {
+      "id": "4090260c95ef81bf8031fa461ef58496",
+      "title": "A Project of One's Own",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "June 2021, https://www.paulgraham.com/own.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-work-hard": {
+      "id": "4090260c95ef814aa48ef8b89a92df88",
+      "title": "How to Work Hard",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "June 2021, https://www.paulgraham.com/hwh.html"
+    },
+    "raw/shared/paul-graham-essays/an-nft-that-saves-lives": {
+      "id": "4090260c95ef81d7a020e790c8fc201e",
+      "title": "An NFT That Saves Lives",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2021, https://www.paulgraham.com/nft.html"
+    },
+    "raw/shared/paul-graham-essays/crazy-new-ideas": {
+      "id": "4090260c95ef8169a64ae045c5994280",
+      "title": "Crazy New Ideas",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2021, https://www.paulgraham.com/newideas.html"
+    },
+    "raw/shared/paul-graham-essays/fierce-nerds": {
+      "id": "4090260c95ef81febbf8f876b1b3a816",
+      "title": "Fierce Nerds",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2021, https://www.paulgraham.com/fn.html"
+    },
+    "raw/shared/paul-graham-essays/how-people-get-rich-now": {
+      "id": "4090260c95ef81038090c1fb1e1b8360",
+      "title": "How People Get Rich Now",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2021, https://www.paulgraham.com/richnow.html"
+    },
+    "raw/shared/paul-graham-essays/the-real-reason-to-end-the-death-penalty": {
+      "id": "4090260c95ef818aad1ee1b25293f079",
+      "title": "The Real Reason to End the Death Penalty",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2021, https://www.paulgraham.com/real.html"
+    },
+    "raw/shared/paul-graham-essays/donate-unrestricted": {
+      "id": "4090260c95ef8156a720cd61ac50d5e6",
+      "title": "Donate Unrestricted",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2021, https://www.paulgraham.com/donate.html"
+    },
+    "raw/shared/paul-graham-essays/write-simply": {
+      "id": "4090260c95ef8109b409d60d81205c9f",
+      "title": "Write Simply",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2021, https://www.paulgraham.com/simply.html"
+    },
+    "raw/shared/paul-graham-essays/what-i-worked-on": {
+      "id": "4090260c95ef815983fcdc447df95b53",
+      "title": "What I Worked On",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2021, https://www.paulgraham.com/worked.html"
+    },
+    "raw/shared/paul-graham-essays/billionaires-build": {
+      "id": "4090260c95ef81cc8be9c2a9a846fb78",
+      "title": "Billionaires Build",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2020, https://www.paulgraham.com/ace.html"
+    },
+    "raw/shared/paul-graham-essays/earnestness": {
+      "id": "4090260c95ef8185a62ff0a1cf00c04c",
+      "title": "Earnestness",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2020, https://www.paulgraham.com/earnest.html"
+    },
+    "raw/shared/paul-graham-essays/the-airbnbs": {
+      "id": "4090260c95ef815e8229c7eaef11891d",
+      "title": "The Airbnbs",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2020, https://www.paulgraham.com/airbnbs.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-think-for-yourself": {
+      "id": "4090260c95ef814bad40e9e7840fe4b4",
+      "title": "How to Think for Yourself",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2020, https://www.paulgraham.com/think.html"
+    },
+    "raw/shared/paul-graham-essays/early-work": {
+      "id": "4090260c95ef816ca63fc4a1212c1517",
+      "title": "Early Work",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2020, https://www.paulgraham.com/early.html"
+    },
+    "raw/shared/paul-graham-essays/orthodox-privilege": {
+      "id": "4090260c95ef81a5acd6f0eb31bc4254",
+      "title": "Orthodox Privilege",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2020, https://www.paulgraham.com/orth.html"
+    },
+    "raw/shared/paul-graham-essays/the-four-quadrants-of-conformism": {
+      "id": "4090260c95ef81f3b4acf7dcab8c5ea7",
+      "title": "The Four Quadrants of Conformism",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2020, https://www.paulgraham.com/conformism.html"
+    },
+    "raw/shared/paul-graham-essays/coronavirus-and-credibility": {
+      "id": "4090260c95ef811791bfd5c42953748e",
+      "title": "Coronavirus and Credibility",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2020, https://www.paulgraham.com/cred.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-write-usefully": {
+      "id": "4090260c95ef814fbd87dc6da578982b",
+      "title": "How to Write Usefully",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2020, https://www.paulgraham.com/useful.html"
+    },
+    "raw/shared/paul-graham-essays/being-a-noob": {
+      "id": "4090260c95ef81b38e46e9167350324a",
+      "title": "Being a Noob",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2020, https://www.paulgraham.com/noob.html"
+    },
+    "raw/shared/paul-graham-essays/haters": {
+      "id": "4090260c95ef8122a4f5fc10e1d3e4a1",
+      "title": "Haters",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2020, https://www.paulgraham.com/fh.html"
+    },
+    "raw/shared/paul-graham-essays/fashionable-problems": {
+      "id": "4090260c95ef8191ba08e1589597f15d",
+      "title": "Fashionable Problems",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2019, https://www.paulgraham.com/fp.html"
+    },
+    "raw/shared/paul-graham-essays/having-kids": {
+      "id": "4090260c95ef81fe9cdaf0450c3fe8cc",
+      "title": "Having Kids",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2019, https://www.paulgraham.com/kids.html"
+    },
+    "raw/shared/paul-graham-essays/the-lesson-to-unlearn": {
+      "id": "4090260c95ef8114bde3e828918454a5",
+      "title": "The Lesson to Unlearn",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2019, https://www.paulgraham.com/lesson.html"
+    },
+    "raw/shared/paul-graham-essays/the-two-kinds-of-moderate": {
+      "id": "4090260c95ef812abe50f1d2c8291983",
+      "title": "The Two Kinds of Moderate",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2019, https://www.paulgraham.com/mod.html"
+    },
+    "raw/shared/paul-graham-essays/novelty-and-heresy": {
+      "id": "4090260c95ef816fbde0d6eed92304f4",
+      "title": "Novelty and Heresy",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2019, https://www.paulgraham.com/nov.html"
+    },
+    "raw/shared/paul-graham-essays/the-bus-ticket-theory-of-genius": {
+      "id": "4090260c95ef81ab822ccd849aeea159",
+      "title": "The Bus Ticket Theory of Genius",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2019, https://www.paulgraham.com/genius.html"
+    },
+    "raw/shared/paul-graham-essays/general-and-surprising": {
+      "id": "4090260c95ef8189853dd8d09ac7aadf",
+      "title": "General and Surprising",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2017, https://www.paulgraham.com/sun.html"
+    },
+    "raw/shared/paul-graham-essays/power": {
+      "id": "4090260c95ef81d39836c5cb75e5bd96",
+      "title": "Power",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2017, https://www.paulgraham.com/pow.html"
+    },
+    "raw/shared/paul-graham-essays/the-risk-of-discovery": {
+      "id": "4090260c95ef812c8387cad462a5c502",
+      "title": "The Risk of Discovery",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2017, https://www.paulgraham.com/disc.html"
+    },
+    "raw/shared/paul-graham-essays/this-year-we-can-end-the-death-penalty-in-california": {
+      "id": "4090260c95ef81aea13beb1c200334c8",
+      "title": "This Year We Can End the Death Penalty in California",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2016, https://www.paulgraham.com/prop62.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-make-pittsburgh-a-startup-hub": {
+      "id": "4090260c95ef81ce9712c904045e2c42",
+      "title": "How to Make Pittsburgh a Startup Hub",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2016, https://www.paulgraham.com/pgh.html"
+    },
+    "raw/shared/paul-graham-essays/economic-inequality": {
+      "id": "4090260c95ef81f2a6efdfe9fe4b695c",
+      "title": "Economic Inequality",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2016, https://www.paulgraham.com/ineq.html"
+    },
+    "raw/shared/paul-graham-essays/life-is-short": {
+      "id": "4090260c95ef8112ba8ccfe7373f5b46",
+      "title": "Life is Short",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2016, https://www.paulgraham.com/vb.html"
+    },
+    "raw/shared/paul-graham-essays/jessica-livingston": {
+      "id": "4090260c95ef816cbd51d7fa13889ddc",
+      "title": "Jessica Livingston",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2015, https://www.paulgraham.com/jessica.html"
+    },
+    "raw/shared/paul-graham-essays/a-way-to-detect-bias": {
+      "id": "4090260c95ef81b2b399f843e1db0ce2",
+      "title": "A Way to Detect Bias",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2015, https://www.paulgraham.com/bias.html"
+    },
+    "raw/shared/paul-graham-essays/default-alive-or-default-dead": {
+      "id": "4090260c95ef817e940ef2c7f17a255b",
+      "title": "Default Alive or Default Dead?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2015, https://www.paulgraham.com/aord.html"
+    },
+    "raw/shared/paul-graham-essays/write-like-you-talk": {
+      "id": "4090260c95ef81d4aceef614b75662be",
+      "title": "Write Like You Talk",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2015, https://www.paulgraham.com/talk.html"
+    },
+    "raw/shared/paul-graham-essays/what-microsoft-is-this-the-altair-basic-of": {
+      "id": "4090260c95ef81219a5af7ec2b4bcaef",
+      "title": "What Microsoft Is this the Altair Basic of?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2015, https://www.paulgraham.com/altair.html"
+    },
+    "raw/shared/paul-graham-essays/don't-talk-to-corp-dev": {
+      "id": "4090260c95ef8146b5f3c6377dbce5ac",
+      "title": "Don't Talk to Corp Dev",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2015, https://www.paulgraham.com/corpdev.html"
+    },
+    "raw/shared/paul-graham-essays/the-ronco-principle": {
+      "id": "4090260c95ef81148340f96ded332a74",
+      "title": "The Ronco Principle",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2015, https://www.paulgraham.com/ronco.html"
+    },
+    "raw/shared/paul-graham-essays/what-doesn't-seem-like-work": {
+      "id": "4090260c95ef81d8a3cad1e97fb8d98e",
+      "title": "What Doesn't Seem Like Work?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2015, https://www.paulgraham.com/work.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-be-an-expert-in-a-changing-world": {
+      "id": "4090260c95ef81c79e72f7ce1f3d887a",
+      "title": "How to Be an Expert in a Changing World",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2014, https://www.paulgraham.com/ecw.html"
+    },
+    "raw/shared/paul-graham-essays/how-you-know": {
+      "id": "4090260c95ef81a28ceafd7693e5ccff",
+      "title": "How You Know",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2014, https://www.paulgraham.com/know.html"
+    },
+    "raw/shared/paul-graham-essays/let-the-other-95%-of-great-programmers-in": {
+      "id": "4090260c95ef81d79481e1aa60fe3305",
+      "title": "Let the Other 95% of Great Programmers In",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2014, https://www.paulgraham.com/95.html"
+    },
+    "raw/shared/paul-graham-essays/the-fatal-pinch": {
+      "id": "4090260c95ef81fb9890db46c8c8dd8c",
+      "title": "The Fatal Pinch",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2014, https://www.paulgraham.com/pinch.html"
+    },
+    "raw/shared/paul-graham-essays/before-the-startup": {
+      "id": "4090260c95ef81d687a2e04dd9df3594",
+      "title": "Before the Startup",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2014, https://www.paulgraham.com/before.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-raise-money": {
+      "id": "4090260c95ef81bf8cfcff6e99dcc4bc",
+      "title": "How to Raise Money",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2013, https://www.paulgraham.com/fr.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-convince-investors": {
+      "id": "4090260c95ef819d91ace837803e400e",
+      "title": "How to Convince Investors",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2013, https://www.paulgraham.com/convince.html"
+    },
+    "raw/shared/paul-graham-essays/investor-herd-dynamics": {
+      "id": "4090260c95ef810986b5d81271283c00",
+      "title": "Investor Herd Dynamics",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2013, https://www.paulgraham.com/herd.html"
+    },
+    "raw/shared/paul-graham-essays/do-things-that-don't-scale": {
+      "id": "4090260c95ef81d2a068f8c6cf5a297c",
+      "title": "Do Things that Don't Scale",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2013, https://www.paulgraham.com/ds.html"
+    },
+    "raw/shared/paul-graham-essays/startup-investing-trends": {
+      "id": "4090260c95ef812c99e9feec7875b281",
+      "title": "Startup Investing Trends",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "June 2013, https://www.paulgraham.com/invtrend.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-get-startup-ideas": {
+      "id": "4090260c95ef81138984e26e2776a0a8",
+      "title": "How to Get Startup Ideas",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2012, https://www.paulgraham.com/startupideas.html"
+    },
+    "raw/shared/paul-graham-essays/the-hardware-renaissance": {
+      "id": "4090260c95ef81e0a9e2c4da95f93adb",
+      "title": "The Hardware Renaissance",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2012, https://www.paulgraham.com/hw.html"
+    },
+    "raw/shared/paul-graham-essays/black-swan-farming": {
+      "id": "4090260c95ef81f8914ed925165c07c7",
+      "title": "Black Swan Farming",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2012, https://www.paulgraham.com/swan.html"
+    },
+    "raw/shared/paul-graham-essays/the-top-of-my-todo-list": {
+      "id": "4090260c95ef8102a90fdbc984de280f",
+      "title": "The Top of My Todo List",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2012, https://www.paulgraham.com/todo.html"
+    },
+    "raw/shared/paul-graham-essays/defining-property": {
+      "id": "4090260c95ef81f380d2ec3014aec434",
+      "title": "Defining Property",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2012, https://www.paulgraham.com/property.html"
+    },
+    "raw/shared/paul-graham-essays/frighteningly-ambitious-startup-ideas": {
+      "id": "4090260c95ef81938de0dbf18253b035",
+      "title": "Frighteningly Ambitious Startup Ideas",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2012, https://www.paulgraham.com/ambitious.html"
+    },
+    "raw/shared/paul-graham-essays/how-y-combinator-started": {
+      "id": "4090260c95ef818cb025d4714aefe97b",
+      "title": "How Y Combinator Started",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2012, https://www.paulgraham.com/ycstart.html"
+    },
+    "raw/shared/paul-graham-essays/writing-and-speaking": {
+      "id": "4090260c95ef810a8e67df0d0b7e6404",
+      "title": "Writing and Speaking",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2012, https://www.paulgraham.com/speak.html"
+    },
+    "raw/shared/paul-graham-essays/a-word-to-the-resourceful": {
+      "id": "4090260c95ef810f84e7cece4313d05c",
+      "title": "A Word to the Resourceful",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2012, https://www.paulgraham.com/word.html"
+    },
+    "raw/shared/paul-graham-essays/schlep-blindness": {
+      "id": "4090260c95ef81f5bbc8c4d0534556f8",
+      "title": "Schlep Blindness",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2012, https://www.paulgraham.com/schlep.html"
+    },
+    "raw/shared/paul-graham-essays/why-startup-hubs-work": {
+      "id": "4090260c95ef8130818bdba0937eb538",
+      "title": "Why Startup Hubs Work",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2011, https://www.paulgraham.com/hubs.html"
+    },
+    "raw/shared/paul-graham-essays/the-patent-pledge": {
+      "id": "4090260c95ef81eb99e9e43baeece82b",
+      "title": "The Patent Pledge",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2011, https://www.paulgraham.com/patentpledge.html"
+    },
+    "raw/shared/paul-graham-essays/founder-control": {
+      "id": "4090260c95ef8115b94dc7d2adcd808e",
+      "title": "Founder Control",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2010, https://www.paulgraham.com/control.html"
+    },
+    "raw/shared/paul-graham-essays/tablets": {
+      "id": "4090260c95ef8106a515dbed53a11790",
+      "title": "Tablets",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2010, https://www.paulgraham.com/tablets.html"
+    },
+    "raw/shared/paul-graham-essays/the-new-funding-landscape": {
+      "id": "4090260c95ef81c68a8ff08d00b0d34e",
+      "title": "The New Funding Landscape",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2010, https://www.paulgraham.com/superangels.html"
+    },
+    "raw/shared/paul-graham-essays/what-we-look-for-in-founders": {
+      "id": "4090260c95ef81ae9fececb49a5ce7c9",
+      "title": "What We Look for in Founders",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2010, https://www.paulgraham.com/founders.html"
+    },
+    "raw/shared/paul-graham-essays/where-to-see-silicon-valley": {
+      "id": "4090260c95ef81d8b7a0d006993f79c3",
+      "title": "Where to See Silicon Valley",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2010, https://www.paulgraham.com/seesv.html"
+    },
+    "raw/shared/paul-graham-essays/high-resolution-fundraising": {
+      "id": "4090260c95ef818fa059f5919b6af216",
+      "title": "High Resolution Fundraising",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2010, https://www.paulgraham.com/hiresfund.html"
+    },
+    "raw/shared/paul-graham-essays/what-happened-to-yahoo": {
+      "id": "4090260c95ef81b0a766fcc603b48133",
+      "title": "What Happened to Yahoo",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2010, https://www.paulgraham.com/yahoo.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-lose-time-and-money": {
+      "id": "4090260c95ef8158a08edba02169cd42",
+      "title": "How to Lose Time and Money",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2010, https://www.paulgraham.com/selfindulgence.html"
+    },
+    "raw/shared/paul-graham-essays/the-acceleration-of-addictiveness": {
+      "id": "4090260c95ef8117a234e77d90a29ad0",
+      "title": "The Acceleration of Addictiveness",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2010, https://www.paulgraham.com/addiction.html"
+    },
+    "raw/shared/paul-graham-essays/the-top-idea-in-your-mind": {
+      "id": "4090260c95ef8159834ce603b809c04d",
+      "title": "The Top Idea in Your Mind",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2010, https://www.paulgraham.com/top.html"
+    },
+    "raw/shared/paul-graham-essays/organic-startup-ideas": {
+      "id": "4090260c95ef81b3a1d6c8812c4bdbf5",
+      "title": "Organic Startup Ideas",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2010, https://www.paulgraham.com/organic.html"
+    },
+    "raw/shared/paul-graham-essays/apples-mistake": {
+      "id": "4090260c95ef814685f2ee3e8211c782",
+      "title": "Apple's Mistake",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2009, https://www.paulgraham.com/apple.html"
+    },
+    "raw/shared/paul-graham-essays/what-startups-are-really-like": {
+      "id": "4090260c95ef81358d8cdee83b179aa3",
+      "title": "What Startups Are Really Like",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2009, https://www.paulgraham.com/really.html"
+    },
+    "raw/shared/paul-graham-essays/persuade-xor-discover": {
+      "id": "4090260c95ef81f485cde5aabb0947a3",
+      "title": "Persuade xor Discover",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2009, https://www.paulgraham.com/discover.html"
+    },
+    "raw/shared/paul-graham-essays/post-medium-publishing": {
+      "id": "4090260c95ef81e1b5a5e862c9a37da3",
+      "title": "Post-Medium Publishing",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2009, https://www.paulgraham.com/publishing.html"
+    },
+    "raw/shared/paul-graham-essays/the-anatomy-of-determination": {
+      "id": "4090260c95ef81aab076c4b45e782a21",
+      "title": "The Anatomy of Determination",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2009, https://www.paulgraham.com/determination.html"
+    },
+    "raw/shared/paul-graham-essays/the-list-of-n-things": {
+      "id": "4090260c95ef8145a188c531a6625af4",
+      "title": "The List of N Things",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2009, https://www.paulgraham.com/nthings.html"
+    },
+    "raw/shared/paul-graham-essays/what-kate-saw-in-silicon-valley": {
+      "id": "4090260c95ef8155b0efe2f697c0d77e",
+      "title": "What Kate Saw in Silicon Valley",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2009, https://www.paulgraham.com/kate.html"
+    },
+    "raw/shared/paul-graham-essays/maker's-schedule,-manager's-schedule": {
+      "id": "4090260c95ef819a8080c921b2460eea",
+      "title": "Maker's Schedule, Manager's Schedule",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2009, https://www.paulgraham.com/makersschedule.html"
+    },
+    "raw/shared/paul-graham-essays/ramen-profitable": {
+      "id": "4090260c95ef8104ba2afea0abc090d9",
+      "title": "Ramen Profitable",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2009, https://www.paulgraham.com/ramenprofitable.html"
+    },
+    "raw/shared/paul-graham-essays/the-trouble-with-the-segway": {
+      "id": "4090260c95ef81a080d7c588faffe055",
+      "title": "The Trouble with the Segway",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2009, https://www.paulgraham.com/segway.html"
+    },
+    "raw/shared/paul-graham-essays/five-founders": {
+      "id": "4090260c95ef81fcbcd1d4003583e1ab",
+      "title": "Five Founders",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2009, https://www.paulgraham.com/5founders.html"
+    },
+    "raw/shared/paul-graham-essays/why-twitter-is-a-big-deal": {
+      "id": "4090260c95ef81338067dfc95297baa9",
+      "title": "Why Twitter is a Big Deal",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2009, https://www.paulgraham.com/twitter.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-be-an-angel-investor": {
+      "id": "4090260c95ef812a94e1f5f6b41e0949",
+      "title": "How to Be an Angel Investor",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2009, https://www.paulgraham.com/angelinvesting.html"
+    },
+    "raw/shared/paul-graham-essays/relentlessly-resourceful": {
+      "id": "4090260c95ef81c88c00d92a0519e09f",
+      "title": "Relentlessly Resourceful",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2009, https://www.paulgraham.com/relres.html"
+    },
+    "raw/shared/paul-graham-essays/why-tv-lost": {
+      "id": "4090260c95ef81afb83dfa35f4c77242",
+      "title": "Why TV Lost",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2009, https://www.paulgraham.com/convergence.html"
+    },
+    "raw/shared/paul-graham-essays/can-you-buy-a-silicon-valley-maybe.": {
+      "id": "4090260c95ef81589841d2d391f5fdc4",
+      "title": "Can You Buy a Silicon Valley? Maybe.",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2009, https://www.paulgraham.com/maybe.html"
+    },
+    "raw/shared/paul-graham-essays/keep-your-identity-small": {
+      "id": "4090260c95ef81ef9853c0f877a8fb10",
+      "title": "Keep Your Identity Small",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2009, https://www.paulgraham.com/identity.html"
+    },
+    "raw/shared/paul-graham-essays/what-i've-learned-from-hacker-news": {
+      "id": "4090260c95ef81c997b2faff220135a3",
+      "title": "What I've Learned from Hacker News",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2009, https://www.paulgraham.com/hackernews.html"
+    },
+    "raw/shared/paul-graham-essays/after-credentials": {
+      "id": "4090260c95ef81b3883fd76ca3b42fca",
+      "title": "After Credentials",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2008, https://www.paulgraham.com/credentials.html"
+    },
+    "raw/shared/paul-graham-essays/could-vc-be-a-casualty-of-the-recession": {
+      "id": "4090260c95ef81788b07d393a0ad0a4c",
+      "title": "Could VC be a Casualty of the Recession?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2008, https://www.paulgraham.com/divergence.html"
+    },
+    "raw/shared/paul-graham-essays/the-high-res-society": {
+      "id": "4090260c95ef81cab8fdfbf994209ae8",
+      "title": "The High-Res Society",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2008, https://www.paulgraham.com/highres.html"
+    },
+    "raw/shared/paul-graham-essays/the-other-half-of-artists-ship": {
+      "id": "4090260c95ef8164867fd68d728b6b62",
+      "title": "The Other Half of \"Artists Ship\"",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2008, https://www.paulgraham.com/artistsship.html"
+    },
+    "raw/shared/paul-graham-essays/why-to-start-a-startup-in-a-bad-economy": {
+      "id": "4090260c95ef8132a4afdc08c50b2efb",
+      "title": "Why to Start a Startup in a Bad Economy",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2008, https://www.paulgraham.com/badeconomy.html"
+    },
+    "raw/shared/paul-graham-essays/a-fundraising-survival-guide": {
+      "id": "4090260c95ef819da09beba4cb5cb687",
+      "title": "A Fundraising Survival Guide",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2008, https://www.paulgraham.com/fundraising.html"
+    },
+    "raw/shared/paul-graham-essays/the-pooled-risk-company-management-company": {
+      "id": "4090260c95ef812b9439d5bb9cf6d7d7",
+      "title": "The Pooled-Risk Company Management Company",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2008, https://www.paulgraham.com/prcmc.html"
+    },
+    "raw/shared/paul-graham-essays/lies-we-tell-kids": {
+      "id": "4090260c95ef81f4be8ae888732201f4",
+      "title": "Lies We Tell Kids",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2008, https://www.paulgraham.com/lies.html"
+    },
+    "raw/shared/paul-graham-essays/be-good": {
+      "id": "4090260c95ef81bdbc30cf4cca543192",
+      "title": "Be Good",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2008, https://www.paulgraham.com/good.html"
+    },
+    "raw/shared/paul-graham-essays/some-heroes": {
+      "id": "4090260c95ef8181a2f7ffdb735045c3",
+      "title": "Some Heroes",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2008, https://www.paulgraham.com/heroes.html"
+    },
+    "raw/shared/paul-graham-essays/why-there-aren't-more-googles": {
+      "id": "4090260c95ef8196b804da5fcdf8738a",
+      "title": "Why There Aren't More Googles",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2008, https://www.paulgraham.com/googles.html"
+    },
+    "raw/shared/paul-graham-essays/a-new-venture-animal": {
+      "id": "4090260c95ef81539914f93a145a4418",
+      "title": "A New Venture Animal",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2008, rev May 2013, https://www.paulgraham.com/ycombinator.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-disagree": {
+      "id": "4090260c95ef812c935cf88a62d26370",
+      "title": "How to Disagree",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2008, https://www.paulgraham.com/disagree.html"
+    },
+    "raw/shared/paul-graham-essays/trolls": {
+      "id": "4090260c95ef810d9697f930c13312cf",
+      "title": "Trolls",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2008, https://www.paulgraham.com/trolls.html"
+    },
+    "raw/shared/paul-graham-essays/the-future-of-web-startups": {
+      "id": "4090260c95ef814fa8a5c3bb330cc713",
+      "title": "The Future of Web Startups",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2007, https://www.paulgraham.com/webstartups.html"
+    },
+    "raw/shared/paul-graham-essays/why-to-move-to-a-startup-hub": {
+      "id": "4090260c95ef81dc9f1df7a298fc9aac",
+      "title": "Why to Move to a Startup Hub",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2007, https://www.paulgraham.com/startuphubs.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-do-philosophy": {
+      "id": "4090260c95ef8127b859f2f5570a1485",
+      "title": "How to Do Philosophy",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2007, https://www.paulgraham.com/philosophy.html"
+    },
+    "raw/shared/paul-graham-essays/news-from-the-front": {
+      "id": "4090260c95ef81bca373cfd0ebe17be5",
+      "title": "News from the Front",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2007, https://www.paulgraham.com/colleges.html"
+    },
+    "raw/shared/paul-graham-essays/holding-a-program-in-one's-head": {
+      "id": "4090260c95ef813baecad8cb2aa3cf2c",
+      "title": "Holding a Program in One's Head",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2007, https://www.paulgraham.com/head.html"
+    },
+    "raw/shared/paul-graham-essays/how-not-to-die": {
+      "id": "4090260c95ef8113a5d0e70ee3241687",
+      "title": "How Not to Die",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2007, https://www.paulgraham.com/die.html"
+    },
+    "raw/shared/paul-graham-essays/stuff": {
+      "id": "4090260c95ef8166bd05fd48027f299c",
+      "title": "Stuff",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2007, https://www.paulgraham.com/stuff.html"
+    },
+    "raw/shared/paul-graham-essays/the-equity-equation": {
+      "id": "4090260c95ef818eb37ec5cb493b1601",
+      "title": "The Equity Equation",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2007, https://www.paulgraham.com/equity.html"
+    },
+    "raw/shared/paul-graham-essays/an-alternative-theory-of-unions": {
+      "id": "4090260c95ef81b9a880dc9496c4ce36",
+      "title": "An Alternative Theory of Unions",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2007, https://www.paulgraham.com/unions.html"
+    },
+    "raw/shared/paul-graham-essays/microsoft-is-dead": {
+      "id": "4090260c95ef819880fac8828d21f3a2",
+      "title": "Microsoft is Dead",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2007, https://www.paulgraham.com/microsoft.html"
+    },
+    "raw/shared/paul-graham-essays/the-hacker's-guide-to-investors": {
+      "id": "4090260c95ef8118b4d4d3179639a185",
+      "title": "The Hacker's Guide to Investors",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2007, https://www.paulgraham.com/guidetoinvestors.html"
+    },
+    "raw/shared/paul-graham-essays/two-kinds-of-judgement": {
+      "id": "4090260c95ef8152821df240029f7d80",
+      "title": "Two Kinds of Judgement",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2007, https://www.paulgraham.com/judgement.html"
+    },
+    "raw/shared/paul-graham-essays/why-to-not-not-start-a-startup": {
+      "id": "4090260c95ef8196ae25db138088c826",
+      "title": "Why to Not Not Start a Startup",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2007, https://www.paulgraham.com/notnot.html"
+    },
+    "raw/shared/paul-graham-essays/is-it-worth-being-wise": {
+      "id": "4090260c95ef8121a7c9f1a061242b34",
+      "title": "Is It Worth Being Wise?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2007, https://www.paulgraham.com/wisdom.html"
+    },
+    "raw/shared/paul-graham-essays/learning-from-founders": {
+      "id": "4090260c95ef81458eb4dda1fde76f75",
+      "title": "Learning from Founders",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2007, https://www.paulgraham.com/foundersatwork.html"
+    },
+    "raw/shared/paul-graham-essays/how-art-can-be-good": {
+      "id": "4090260c95ef81c292c5f6a6c29adc0c",
+      "title": "How Art Can Be Good",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2006, https://www.paulgraham.com/goodart.html"
+    },
+    "raw/shared/paul-graham-essays/a-student's-guide-to-startups": {
+      "id": "4090260c95ef813d8703eb453b2a13eb",
+      "title": "A Student's Guide to Startups",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2006, https://www.paulgraham.com/mit.html"
+    },
+    "raw/shared/paul-graham-essays/the-18-mistakes-that-kill-startups": {
+      "id": "4090260c95ef816ebef7cd1cd2880302",
+      "title": "The 18 Mistakes That Kill Startups",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2006, https://www.paulgraham.com/startupmistakes.html"
+    },
+    "raw/shared/paul-graham-essays/the-island-test": {
+      "id": "4090260c95ef81fe96dde2ec2fa77217",
+      "title": "The Island Test",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2006, https://www.paulgraham.com/island.html"
+    },
+    "raw/shared/paul-graham-essays/the-power-of-the-marginal": {
+      "id": "4090260c95ef81408e55f9e4ce608122",
+      "title": "The Power of the Marginal",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "June 2006, https://www.paulgraham.com/marginal.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-be-silicon-valley": {
+      "id": "4090260c95ef81e78a07fe61915b055a",
+      "title": "How to Be Silicon Valley",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2006, https://www.paulgraham.com/siliconvalley.html"
+    },
+    "raw/shared/paul-graham-essays/why-startups-condense-in-america": {
+      "id": "4090260c95ef81779922ca7a33ca8dcd",
+      "title": "Why Startups Condense in America",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2006, https://www.paulgraham.com/america.html"
+    },
+    "raw/shared/paul-graham-essays/see-randomness": {
+      "id": "4090260c95ef81018e70db56a1e46d80",
+      "title": "See Randomness",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2006, rev August 2009, https://www.paulgraham.com/randomness.html"
+    },
+    "raw/shared/paul-graham-essays/the-hardest-lessons-for-startups-to-learn": {
+      "id": "4090260c95ef81cb8c4dc9e2547e1bd4",
+      "title": "The Hardest Lessons for Startups to Learn",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2006, https://www.paulgraham.com/startuplessons.html"
+    },
+    "raw/shared/paul-graham-essays/6,631,372": {
+      "id": "4090260c95ef81de803cf228c056d70f",
+      "title": "6,631,372",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2006, rev August 2009, https://www.paulgraham.com/6631327.html"
+    },
+    "raw/shared/paul-graham-essays/are-software-patents-evil": {
+      "id": "4090260c95ef815089c1ce2d4446901b",
+      "title": "Are Software Patents Evil?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2006, https://www.paulgraham.com/softwarepatents.html"
+    },
+    "raw/shared/paul-graham-essays/why-yc": {
+      "id": "4090260c95ef81abbd58f98728882e1f",
+      "title": "Why YC",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2006, rev August 2009, https://www.paulgraham.com/whyyc.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-do-what-you-love": {
+      "id": "4090260c95ef81a3a277d672c17fbd29",
+      "title": "How to Do What You Love",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2006, https://www.paulgraham.com/love.html"
+    },
+    "raw/shared/paul-graham-essays/good-and-bad-procrastination": {
+      "id": "4090260c95ef81059e0fd9f89780fd5d",
+      "title": "Good and Bad Procrastination",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "December 2005, https://www.paulgraham.com/procrastination.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-fund-a-startup": {
+      "id": "4090260c95ef818b97d9dffd7ae5835f",
+      "title": "How to Fund a Startup",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2005, https://www.paulgraham.com/startupfunding.html"
+    },
+    "raw/shared/paul-graham-essays/the-venture-capital-squeeze": {
+      "id": "4090260c95ef8176a0e2f3d3af216341",
+      "title": "The Venture Capital Squeeze",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2005, https://www.paulgraham.com/vcsqueeze.html"
+    },
+    "raw/shared/paul-graham-essays/web-2.0": {
+      "id": "4090260c95ef8196b899c2e1bc38306c",
+      "title": "Web 2.0",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2005, https://www.paulgraham.com/web20.html"
+    },
+    "raw/shared/paul-graham-essays/ideas-for-startups": {
+      "id": "4090260c95ef81678c4df5c04a7f1274",
+      "title": "Ideas for Startups",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2005, https://www.paulgraham.com/ideas.html"
+    },
+    "raw/shared/paul-graham-essays/after-the-ladder": {
+      "id": "4090260c95ef81bf9623dec84e4f73d2",
+      "title": "After the Ladder",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2005, https://www.paulgraham.com/ladder.html"
+    },
+    "raw/shared/paul-graham-essays/inequality-and-risk": {
+      "id": "4090260c95ef810393a2f61deb2953c9",
+      "title": "Inequality and Risk",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2005, https://www.paulgraham.com/inequality.html"
+    },
+    "raw/shared/paul-graham-essays/what-business-can-learn-from-open-source": {
+      "id": "4090260c95ef81ebb1a8f1fda259934b",
+      "title": "What Business Can Learn from Open Source",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2005, https://www.paulgraham.com/opensource.html"
+    },
+    "raw/shared/paul-graham-essays/hiring-is-obsolete": {
+      "id": "4090260c95ef817c9ccff9639d3e6968",
+      "title": "Hiring is Obsolete",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2005, https://www.paulgraham.com/hiring.html"
+    },
+    "raw/shared/paul-graham-essays/the-submarine": {
+      "id": "4090260c95ef816b9e0dc9b527a4751b",
+      "title": "The Submarine",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2005, https://www.paulgraham.com/submarine.html"
+    },
+    "raw/shared/paul-graham-essays/why-smart-people-have-bad-ideas": {
+      "id": "4090260c95ef81008187d28498d9709b",
+      "title": "Why Smart People Have Bad Ideas",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2005, https://www.paulgraham.com/bronze.html"
+    },
+    "raw/shared/paul-graham-essays/a-unified-theory-of-vc-suckage": {
+      "id": "4090260c95ef8151b3a3c438de1d472a",
+      "title": "A Unified Theory of VC Suckage",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2005, https://www.paulgraham.com/venturecapital.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-start-a-startup": {
+      "id": "4090260c95ef81e2a7e9df48f486db66",
+      "title": "How to Start a Startup",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2005, https://www.paulgraham.com/start.html"
+    },
+    "raw/shared/paul-graham-essays/return-of-the-mac": {
+      "id": "4090260c95ef81b1aef1d39d7e33c661",
+      "title": "Return of the Mac",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2005, https://www.paulgraham.com/mac.html"
+    },
+    "raw/shared/paul-graham-essays/undergraduation": {
+      "id": "4090260c95ef8190b7eac22a1a263ed3",
+      "title": "Undergraduation",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2005, https://www.paulgraham.com/college.html"
+    },
+    "raw/shared/paul-graham-essays/what-you'll-wish-you'd-known": {
+      "id": "4090260c95ef81778926e631a118ff80",
+      "title": "What You'll Wish You'd Known",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2005, https://www.paulgraham.com/hs.html"
+    },
+    "raw/shared/paul-graham-essays/it's-charisma,-stupid": {
+      "id": "4090260c95ef81d0889dcb89dd4bffda",
+      "title": "It's Charisma, Stupid",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2004, corrected June 2006, https://www.paulgraham.com/charisma.html"
+    },
+    "raw/shared/paul-graham-essays/made-in-usa": {
+      "id": "4090260c95ef81f8b2baf0ff33e06b8d",
+      "title": "Made in USA",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2004, https://www.paulgraham.com/usa.html"
+    },
+    "raw/shared/paul-graham-essays/the-age-of-the-essay": {
+      "id": "4090260c95ef81fca568ce6f1e4d6d03",
+      "title": "The Age of the Essay",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2004, https://www.paulgraham.com/essay.html"
+    },
+    "raw/shared/paul-graham-essays/what-the-bubble-got-right": {
+      "id": "4090260c95ef81449077e0978de1cd30",
+      "title": "What the Bubble Got Right",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2004, https://www.paulgraham.com/bubble.html"
+    },
+    "raw/shared/paul-graham-essays/the-python-paradox": {
+      "id": "4090260c95ef81409332ff2c196d76e3",
+      "title": "The Python Paradox",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2004, https://www.paulgraham.com/pypar.html"
+    },
+    "raw/shared/paul-graham-essays/great-hackers": {
+      "id": "4090260c95ef81f19e98ec81319ff0d5",
+      "title": "Great Hackers",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2004, https://www.paulgraham.com/gh.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-make-wealth": {
+      "id": "4090260c95ef81bc982de60066a78694",
+      "title": "How to Make Wealth",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2004, https://www.paulgraham.com/wealth.html"
+    },
+    "raw/shared/paul-graham-essays/mind-the-gap": {
+      "id": "4090260c95ef8181ba12e56ea00b5c24",
+      "title": "Mind the Gap",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2004, https://www.paulgraham.com/gap.html"
+    },
+    "raw/shared/paul-graham-essays/the-word-hacker": {
+      "id": "4090260c95ef819dac67ed7efd7ace43",
+      "title": "The Word \"Hacker\"",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2004, https://www.paulgraham.com/gba.html"
+    },
+    "raw/shared/paul-graham-essays/hackers-and-painters": {
+      "id": "4090260c95ef81a88611eab62a0c6e52",
+      "title": "Hackers and Painters",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2003, https://www.paulgraham.com/hp.html"
+    },
+    "raw/shared/paul-graham-essays/if-lisp-is-so-great": {
+      "id": "4090260c95ef81279072ce27a123d7d6",
+      "title": "If Lisp is So Great",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2003, https://www.paulgraham.com/iflisp.html"
+    },
+    "raw/shared/paul-graham-essays/the-hundred-year-language": {
+      "id": "4090260c95ef816db9fbf1fb988aabae",
+      "title": "The Hundred-Year Language",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2003, https://www.paulgraham.com/hundred.html"
+    },
+    "raw/shared/paul-graham-essays/why-nerds-are-unpopular": {
+      "id": "4090260c95ef8147875de5b0e7d1fccd",
+      "title": "Why Nerds are Unpopular",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2003, https://www.paulgraham.com/nerds.html"
+    },
+    "raw/shared/paul-graham-essays/better-bayesian-filtering": {
+      "id": "4090260c95ef8196b285d38e14f6b949",
+      "title": "Better Bayesian Filtering",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2003, https://www.paulgraham.com/better.html"
+    },
+    "raw/shared/paul-graham-essays/design-and-research": {
+      "id": "4090260c95ef819d918ed10f07867e70",
+      "title": "Design and Research",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2003, https://www.paulgraham.com/desres.html"
+    },
+    "raw/shared/paul-graham-essays/a-plan-for-spam": {
+      "id": "4090260c95ef81519ba5e07af17a16cc",
+      "title": "A Plan for Spam",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2002, https://www.paulgraham.com/spam.html"
+    },
+    "raw/shared/paul-graham-essays/revenge-of-the-nerds": {
+      "id": "4090260c95ef81c89944d6b963f029ed",
+      "title": "Revenge of the Nerds",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2002, https://www.paulgraham.com/icad.html"
+    },
+    "raw/shared/paul-graham-essays/succinctness-is-power": {
+      "id": "4090260c95ef81189009dadc54efe675",
+      "title": "Succinctness is Power",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2002, https://www.paulgraham.com/power.html"
+    },
+    "raw/shared/paul-graham-essays/taste-for-makers": {
+      "id": "4090260c95ef81eca839fc15aefc57b8",
+      "title": "Taste for Makers",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2002, https://www.paulgraham.com/taste.html"
+    },
+    "raw/shared/paul-graham-essays/the-other-road-ahead": {
+      "id": "4090260c95ef81679592f8bc16f03946",
+      "title": "The Other Road Ahead",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2001, https://www.paulgraham.com/road.html"
+    },
+    "raw/shared/paul-graham-essays/being-popular": {
+      "id": "4090260c95ef813b8c0cf1ff78c4fffb",
+      "title": "Being Popular",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2001, https://www.paulgraham.com/popular.html"
+    },
+    "raw/shared/paul-graham-essays/five-questions-about-language-design": {
+      "id": "4090260c95ef81c79f3fc114badcbb9f",
+      "title": "Five Questions about Language Design",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2001, https://www.paulgraham.com/langdes.html"
+    },
+    "raw/shared/paul-graham-essays/the-roots-of-lisp": {
+      "id": "4090260c95ef81a2949dc19210eeb4e7",
+      "title": "The Roots of Lisp",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2001, https://www.paulgraham.com/rootsoflisp.html"
+    },
+    "raw/shared/paul-graham-essays/java's-cover": {
+      "id": "4090260c95ef81ff9b00f2d723a6f3a1",
+      "title": "Java's Cover",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2001, https://www.paulgraham.com/javacover.html"
+    },
+    "raw/shared/paul-graham-essays/programming-bottom-up": {
+      "id": "4090260c95ef81aa936bd1e76e46d8b4",
+      "title": "Programming Bottom-Up",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "1993, https://www.paulgraham.com/progbot.html"
+    },
+    "raw/shared/paul-graham-essays/a-local-revolution": {
+      "id": "4090260c95ef819f982eec60cecc0758",
+      "title": "A Local Revolution?",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/revolution.html"
+    },
+    "raw/shared/paul-graham-essays/a-version-1.0": {
+      "id": "4090260c95ef811db628d9483bf308db",
+      "title": "A Version 1.0",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/laundry.html"
+    },
+    "raw/shared/paul-graham-essays/beating-the-averages": {
+      "id": "4090260c95ef81a0963cd561914169ff",
+      "title": "Beating the Averages",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/avg.html"
+    },
+    "raw/shared/paul-graham-essays/bradley's-ghost": {
+      "id": "4090260c95ef81dba0f6c1946fdb0e1e",
+      "title": "Bradley's Ghost",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/polls.html"
+    },
+    "raw/shared/paul-graham-essays/change-your-name": {
+      "id": "4090260c95ef8114bb99ddca9f26b44f",
+      "title": "Change Your Name",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/name.html"
+    },
+    "raw/shared/paul-graham-essays/cities-and-ambition": {
+      "id": "4090260c95ef818f9469e9b01828d11e",
+      "title": "Cities and Ambition",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/cities.html"
+    },
+    "raw/shared/paul-graham-essays/copy-what-you-like": {
+      "id": "4090260c95ef81b6a563da84d29df2b1",
+      "title": "Copy What You Like",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/copy.html"
+    },
+    "raw/trail/2026-10-30-operator-sourcing-and-binding-research": {
+      "id": "4090260c95ef8180b92cfd381c008fb6",
+      "title": "2026-10-30 Operator Sourcing And Binding Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "How Evaneos, Zicasso, Intrepid and Much Better Adventures source and bind small local operators; liability (CJEU C-469/24), payment norms, fraud, what suppliers want."
+    },
+    "raw/shared/paul-graham-essays/disconnecting-distraction": {
+      "id": "4090260c95ef81518191d1809638e075",
+      "title": "Disconnecting Distraction",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/distraction.html"
+    },
+    "raw/shared/paul-graham-essays/filters-that-fight-back": {
+      "id": "4090260c95ef81148c10d18b8dfe622e",
+      "title": "Filters that Fight Back",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/ffb.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-present-to-investors": {
+      "id": "4090260c95ef813aa77ff901384c6c12",
+      "title": "How to Present to Investors",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/investors.html"
+    },
+    "raw/shared/paul-graham-essays/lisp-for-web-based-applications": {
+      "id": "4090260c95ef81a8ae39f00ea79689b6",
+      "title": "Lisp for Web-Based Applications",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/lwba.html"
+    },
+    "raw/shared/paul-graham-essays/mean-people-fail": {
+      "id": "4090260c95ef81809018fb04e70e059a",
+      "title": "Mean People Fail",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/mean.html"
     }
   }
 }
