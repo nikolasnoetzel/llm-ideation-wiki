@@ -237,7 +237,7 @@
       "title": "Paul Graham Essays",
       "parent": "raw/shared/",
       "emoji": "🧠",
-      "summary": "House lens for idea evaluation: heuristic checklist and index of 226 essays; full texts live in the /paul-graham skill."
+      "summary": "House lens for idea evaluation: heuristic checklist and index of 234 essays (to September 2026); every essay is mirrored as a child page here and in the /paul-graham skill corpus."
     },
     "raw/shared/paul-graham-essays/making-startups-powerful": {
       "id": "4090260c95ef81bea8f5d448e4cad7fc",
@@ -1757,6 +1757,139 @@
       "parent": "raw/shared/paul-graham-essays/",
       "emoji": "📄",
       "summary": "undated, https://www.paulgraham.com/mean.html"
+    },
+    "raw/shared/paul-graham-essays/modeling-a-wealth-tax": {
+      "id": "4090260c95ef8111a134e66a00af5b4b",
+      "title": "Modeling a Wealth Tax",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/wtax.html"
+    },
+    "raw/shared/paul-graham-essays/six-principles-for-making-new-things": {
+      "id": "4090260c95ef817d9ccdd316cc792ca9",
+      "title": "Six Principles for Making New Things",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/newthings.html"
+    },
+    "raw/shared/paul-graham-essays/startup-=-growth": {
+      "id": "4090260c95ef81fa936adf2fe2bbd7b8",
+      "title": "Startup = Growth",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/growth.html"
+    },
+    "raw/shared/paul-graham-essays/startups-in-13-sentences": {
+      "id": "4090260c95ef81a4a18dccb3c0e9208b",
+      "title": "Startups in 13 Sentences",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/13sentences.html"
+    },
+    "raw/shared/paul-graham-essays/the-founder-visa": {
+      "id": "4090260c95ef81708de3c217729db477",
+      "title": "The Founder Visa",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/foundervisa.html"
+    },
+    "raw/trail/2026-10-30-small-operator-supply-research": {
+      "id": "4090260c95ef810ba418f9382958e86b",
+      "title": "2026-10-30 Small Operator Supply Research",
+      "parent": "raw/trail/",
+      "emoji": "🔎",
+      "summary": "How top small lodges, camps and trekking operators sell today: STO tiers (15% vs 30-35%), 7-14 day holds then 20-30% deposits, request-based marketplaces, long-tail counts."
+    },
+    "raw/shared/paul-graham-essays/the-future-of-startup-funding": {
+      "id": "4090260c95ef816cbcf6c54668f7a9e6",
+      "title": "The Future of Startup Funding",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/future.html"
+    },
+    "raw/shared/paul-graham-essays/the-refragmentation": {
+      "id": "4090260c95ef81dc9783e33c3f6c98ee",
+      "title": "The Refragmentation",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/re.html"
+    },
+    "raw/shared/paul-graham-essays/untitled-article": {
+      "id": "4090260c95ef81869a39c1607fd9ecb2",
+      "title": "Untitled Article",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1748944359&"
+    },
+    "raw/shared/paul-graham-essays/what-i-did-this-summer": {
+      "id": "4090260c95ef81338203e87228992831",
+      "title": "What I Did this Summer",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/sfp.html"
+    },
+    "raw/shared/paul-graham-essays/what-languages-fix": {
+      "id": "4090260c95ef81a5abced4ab2e366c86",
+      "title": "What Languages Fix",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/fix.html"
+    },
+    "raw/shared/paul-graham-essays/what-made-lisp-different": {
+      "id": "4090260c95ef8124bee2ece6eae3418b",
+      "title": "What Made Lisp Different",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/diff.html"
+    },
+    "raw/shared/paul-graham-essays/what-you-can't-say": {
+      "id": "4090260c95ef81d99c13c2bb9a75d510",
+      "title": "What You Can't Say",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/say.html"
+    },
+    "raw/shared/paul-graham-essays/why-arc-isn't-especially-object-oriented": {
+      "id": "4090260c95ef8109b572d223249ef130",
+      "title": "Why Arc Isn't Especially Object-Oriented",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/noop.html"
+    },
+    "raw/shared/paul-graham-essays/why-it's-safe-for-founders-to-be-nice": {
+      "id": "4090260c95ef812da391f2d73906bd68",
+      "title": "Why It's Safe for Founders to Be Nice",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/safe.html"
+    },
+    "raw/shared/paul-graham-essays/writing,-briefly": {
+      "id": "4090260c95ef81ef9fb5e035c09c1e20",
+      "title": "Writing, Briefly",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/writing44.html"
+    },
+    "raw/shared/paul-graham-essays/you-weren't-meant-to-have-a-boss": {
+      "id": "4090260c95ef810c9caecd72e6d1293a",
+      "title": "You Weren't Meant to Have a Boss",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "undated, https://www.paulgraham.com/boss.html"
+    },
+    "raw/shared/paul-graham-essays/snapshot-viaweb,-june-1998": {
+      "id": "4090260c95ef819abb16f3b4be6ba212",
+      "title": "Snapshot: Viaweb, June 1998",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2012, https://www.paulgraham.com/vw.html"
+    },
+    "raw/shared/paul-graham-essays/subject-airbnb": {
+      "id": "4090260c95ef8171abdede5bc8372ca7",
+      "title": "Subject: Airbnb",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2011, https://www.paulgraham.com/airbnb.html"
     }
   }
 }
