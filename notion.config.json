@@ -162,13 +162,6 @@
       "emoji": "🔎",
       "summary": "Twenty Paul Graham heuristics with quotes applied to Trail, plus a Jobs lens."
     },
-    "raw/shared/paul-graham-essays": {
-      "id": "4080260c95ef8186b4dced64475cc9eb",
-      "title": "Paul Graham Essays",
-      "parent": "raw/shared/",
-      "emoji": "🧠",
-      "summary": "House lens for idea evaluation: heuristic checklist and index of 226 essays; full texts live in the /paul-graham skill."
-    },
     "raw/trail/2026-10-29-verification-of-graveyard-research": {
       "id": "4080260c95ef816e9f12fa3f6a01fc7e",
       "title": "2026-10-29 Verification Of Graveyard Research",
@@ -231,6 +224,195 @@
       "parent": "raw/trail/",
       "emoji": "✅",
       "summary": "Primary-source verification of the research run: 340 claims, 223 confirmed, 63 corrected; the corrections that changed the wiki and what stays unverifiable."
+    },
+    "raw/trail/founder-note-2026-10-30-inventory-thesis": {
+      "id": "4090260c95ef816aa977d398460b6e41",
+      "title": "Founder Note 2026-10-30 Inventory Thesis",
+      "parent": "raw/trail/",
+      "emoji": "📝",
+      "summary": "Niko's correction of the pooling thesis: bespoke small top operators without web presence, not mainstream attractions."
+    },
+    "raw/shared/paul-graham-essays/": {
+      "id": "4080260c95ef8186b4dced64475cc9eb",
+      "title": "Paul Graham Essays",
+      "parent": "raw/shared/",
+      "emoji": "🧠",
+      "summary": "House lens for idea evaluation: heuristic checklist and index of 226 essays; full texts live in the /paul-graham skill."
+    },
+    "raw/shared/paul-graham-essays/making-startups-powerful": {
+      "id": "4090260c95ef81bea8f5d448e4cad7fc",
+      "title": "Making Startups Powerful",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2026, https://www.paulgraham.com/powerful.html"
+    },
+    "raw/shared/paul-graham-essays/how-universities-should-prepare-founders": {
+      "id": "4090260c95ef815093b4f5395080c31b",
+      "title": "How Universities Should Prepare Founders",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "August 2026, https://www.paulgraham.com/prepare.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-earn-a-billion-dollars": {
+      "id": "4090260c95ef812294c0eb0c87b05351",
+      "title": "How to Earn a Billion Dollars",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "June 2026, https://www.paulgraham.com/earn.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-convert-between-wealth-and-income-tax": {
+      "id": "4090260c95ef81198562c188b02b94cc",
+      "title": "How to Convert Between Wealth and Income Tax",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2026, https://www.paulgraham.com/winc.html"
+    },
+    "raw/shared/paul-graham-essays/the-brand-age": {
+      "id": "4090260c95ef817586acd6aef5f2c5ec",
+      "title": "The Brand Age",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2026, https://www.paulgraham.com/brandage.html"
+    },
+    "raw/shared/paul-graham-essays/the-shape-of-the-essay-field": {
+      "id": "4090260c95ef81daaabbd728a6e27a20",
+      "title": "The Shape of the Essay Field",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "June 2025, https://www.paulgraham.com/field.html"
+    },
+    "raw/shared/paul-graham-essays/good-writing": {
+      "id": "4090260c95ef81e3b108d262860ce0ad",
+      "title": "Good Writing",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "May 2025, https://www.paulgraham.com/goodwriting.html"
+    },
+    "raw/shared/paul-graham-essays/what-to-do": {
+      "id": "4090260c95ef81d3bd51d43c5612baa3",
+      "title": "What to Do",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2025, https://www.paulgraham.com/do.html"
+    },
+    "raw/shared/paul-graham-essays/the-origins-of-wokeness": {
+      "id": "4090260c95ef81c9bb20d7c44990ef91",
+      "title": "The Origins of Wokeness",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2025, https://www.paulgraham.com/woke.html"
+    },
+    "raw/shared/paul-graham-essays/writes-and-write-nots": {
+      "id": "4090260c95ef8104a0b4e1b6126bbc98",
+      "title": "Writes and Write-Nots",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2024, https://www.paulgraham.com/writes.html"
+    },
+    "raw/shared/paul-graham-essays/founder-mode": {
+      "id": "4090260c95ef81b49a7fe56c6c304435",
+      "title": "Founder Mode",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2024, https://www.paulgraham.com/foundermode.html"
+    },
+    "raw/shared/paul-graham-essays/when-to-do-what-you-love": {
+      "id": "4090260c95ef815297e2c045c5fac8ce",
+      "title": "When To Do What You Love",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2024, https://www.paulgraham.com/when.html"
+    },
+    "raw/shared/paul-graham-essays/the-right-kind-of-stubborn": {
+      "id": "4090260c95ef8166ab20ea8785dc68af",
+      "title": "The Right Kind of Stubborn",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2024, https://www.paulgraham.com/persistence.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-start-google": {
+      "id": "4090260c95ef81658d91eec370cb8715",
+      "title": "How to Start Google",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2024, https://www.paulgraham.com/google.html"
+    },
+    "raw/shared/paul-graham-essays/the-best-essay": {
+      "id": "4090260c95ef81adb726c46f520310c4",
+      "title": "The Best Essay",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2024, https://www.paulgraham.com/best.html"
+    },
+    "raw/shared/paul-graham-essays/the-reddits": {
+      "id": "4090260c95ef818aa4c8ca334459965e",
+      "title": "The Reddits",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "March 2024, https://www.paulgraham.com/reddits.html"
+    },
+    "raw/shared/paul-graham-essays/superlinear-returns": {
+      "id": "4090260c95ef815fa31ad37fe78cb07f",
+      "title": "Superlinear Returns",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2023, https://www.paulgraham.com/superlinear.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-do-great-work": {
+      "id": "4090260c95ef81c5bacdd61b6b7a52a4",
+      "title": "How to Do Great Work",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "July 2023, https://www.paulgraham.com/greatwork.html"
+    },
+    "raw/shared/paul-graham-essays/how-to-get-new-ideas": {
+      "id": "4090260c95ef818594a7f29037798292",
+      "title": "How to Get New Ideas",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "January 2023, https://www.paulgraham.com/getideas.html"
+    },
+    "raw/shared/paul-graham-essays/the-need-to-read": {
+      "id": "4090260c95ef81d0a057fcf3fe68cac6",
+      "title": "The Need to Read",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2022, https://www.paulgraham.com/read.html"
+    },
+    "raw/shared/paul-graham-essays/what-you-(want-to)-want": {
+      "id": "4090260c95ef816fa474c3648c7d34d0",
+      "title": "What You (Want to)* Want",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "November 2022, https://www.paulgraham.com/want.html"
+    },
+    "raw/shared/paul-graham-essays/alien-truth": {
+      "id": "4090260c95ef8120b832e014a92721f3",
+      "title": "Alien Truth",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "October 2022, https://www.paulgraham.com/alien.html"
+    },
+    "raw/shared/paul-graham-essays/what-i've-learned-from-users": {
+      "id": "4090260c95ef813fb4bdce638b4e5141",
+      "title": "What I've Learned from Users",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "September 2022, https://www.paulgraham.com/users.html"
+    },
+    "raw/shared/paul-graham-essays/heresy": {
+      "id": "4090260c95ef81fdb07ef0ed1dc4075f",
+      "title": "Heresy",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "April 2022, https://www.paulgraham.com/heresy.html"
+    },
+    "raw/shared/paul-graham-essays/putting-ideas-into-words": {
+      "id": "4090260c95ef81dbb468d67cdd9672df",
+      "title": "Putting Ideas into Words",
+      "parent": "raw/shared/paul-graham-essays/",
+      "emoji": "📄",
+      "summary": "February 2022, https://www.paulgraham.com/words.html"
     }
   }
 }
